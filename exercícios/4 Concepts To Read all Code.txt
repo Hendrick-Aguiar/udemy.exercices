@@ -1,0 +1,15 @@
+                                                
+                                            
+   1º                                       3º 
+  instructions print                        Loop 
+               2x3                          give instructions to repeat commands
+step by step
+
+ 2ª                                         4º
+ conditioning   <= or ==                    Functions
+                 true or false              
+
+
+
+
+

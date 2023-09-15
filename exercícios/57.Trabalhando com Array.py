@@ -1,0 +1,22 @@
+#arrays são usados em listas muito grandes
+# e tem melhor performance
+
+from array import array
+
+
+letras = ['a', 'b', 'c', 'd']
+numeros_i = [10, 20, 30, 40]
+numeros_f = [1.2, 2.2, 3.2]
+
+print(letras)#str
+print(numeros_i)# int
+print(numeros_f)#float
+print()
+
+letras = array('u', ['a', 'b', 'c', 'd'])#string = u
+numeros_i = array('i', [10,20,30,40])
+numeros_f = array('f',[1.2, 2.2, 3.2])
+
+print(letras)
+print(numeros_i)
+print(numeros_f)
